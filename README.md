@@ -1,1 +1,1 @@
-# digital_logic_design_project
+# Digital Logic Design Project
