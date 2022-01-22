@@ -1,4 +1,4 @@
-`include "Pasebani_Masoume_99243022_traffic_controller.v"
+`include "traffic_controller.v"
 module Traffic_Controller_TB();
       reg clk;
       reg reset;
